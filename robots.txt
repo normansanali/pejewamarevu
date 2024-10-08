@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://pejewamarevu.pages.dev/sitemap.xml
